@@ -60,7 +60,7 @@ public class Main {
         short eggWeight = 4 * 70;
         int totalWeight = bananaWeight + milkWeight + iceCreamWeight + eggWeight;
         float totalWeightKg = (float) totalWeight / 1000;
-        System.out.println("Вес завтрака " + totalWeight + " гр. или " + totalWeightKg + " кг.");
+        System.out.println("Вес завтрака " + totalWeight + " гр. Или " + totalWeightKg + " кг.");
 
         //Task 7
         byte kgToLose = 7;
